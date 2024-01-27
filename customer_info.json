@@ -1,0 +1,134 @@
+{
+    "users": [
+        {
+            "user_id": 1,
+            "user_name": "Alice",
+            "items": [
+                {
+                    "item_name": "Levi Blue Jeans",
+                    "item_price": 50.0,
+                    "order_status": "on the way",
+                    "order_date": "2023-10-15",
+                    "delivery_date": "N/A",
+                    "refund_status": "not initiated",
+                    "product_damaged": false,
+                    "delivery_partner_name": "DeliveryCo"
+                },
+                {
+                    "item_name": "Portronics Keyboard",
+                    "item_price": 30.0,
+                    "order_status": "waiting for return",
+                    "order_date": "2023-10-10",
+                    "delivery_date": "2023-10-20",
+                    "refund_status": "initiated",
+                    "product_damaged": true,
+                    "delivery_partner_name": "QuickShip"
+                }
+            ]
+        },
+        {
+            "user_id": 2,
+            "user_name": "Bob",
+            "items": [
+                {
+                    "item_name": "Sony Headphones",
+                    "item_price": 80.0,
+                    "order_status": "waiting for return",
+                    "order_date": "2023-10-5",
+                    "delivery_date": "N/A",
+                    "refund_status": "initiated",
+                    "product_damaged": true,
+                    "delivery_partner_name": "SwiftDelivery"
+                },
+                {
+                    "item_name": "Samsung Monitor",
+                    "item_price": 150.0,
+                    "order_status": "on the way",
+                    "order_date": "2023-10-12",
+                    "delivery_date": "N/A",
+                    "refund_status": "rejected",
+                    "product_damaged": false,
+                    "delivery_partner_name": "FastTransit"
+                }
+            ]
+        },
+        {
+            "user_id": 3,
+            "user_name": "Charlie",
+            "items": [
+                {
+                    "item_name": "Apple iPhone",
+                    "item_price": 800.0,
+                    "order_status": "delivered",
+                    "order_date": "2023-10-8",
+                    "delivery_date": "2023-10-18",
+                    "refund_status": "done",
+                    "product_damaged": false,
+                    "delivery_partner_name": "ExpressShip"
+                },
+                {
+                    "item_name": "Logitech Mouse",
+                    "item_price": 20.0,
+                    "order_status": "on the way",
+                    "order_date": "2023-10-25",
+                    "delivery_date": "N/A",
+                    "refund_status": "not initiated",
+                    "product_damaged": true,
+                    "delivery_partner_name": "SuperCourier"
+                }
+            ]
+        },
+        {
+            "user_id": 4,
+            "user_name": "David",
+            "items": [
+                {
+                    "item_name": "Dell Laptop",
+                    "item_price": 600.0,
+                    "order_status": "on the way",
+                    "order_date": "2023-10-7",
+                    "delivery_date": "N/A",
+                    "refund_status": "initiated",
+                    "product_damaged": false,
+                    "delivery_partner_name": "SpeedyTrans"
+                },
+                {
+                    "item_name": "Canon Camera",
+                    "item_price": 350.0,
+                    "order_status": "delivered",
+                    "order_date": "2023-10-14",
+                    "delivery_date": "2023-10-24",
+                    "refund_status": "done",
+                    "product_damaged": false,
+                    "delivery_partner_name": "FlashLogistics"
+                }
+            ]
+        },
+        {
+            "user_id": 5,
+            "user_name": "Eve",
+            "items": [
+                {
+                    "item_name": "Adidas Sneakers",
+                    "item_price": 70.0,
+                    "order_status": "returned",
+                    "order_date": "2023-10-6",
+                    "delivery_date": "N/A",
+                    "refund_status": "rejected",
+                    "product_damaged": true,
+                    "delivery_partner_name": "SafeShipping"
+                },
+                {
+                    "item_name": "LG TV",
+                    "item_price": 400.0,
+                    "order_status": "on the way",
+                    "order_date": "2023-10-19",
+                    "delivery_date": "N/A",
+                    "refund_status": "not initiated",
+                    "product_damaged": false,
+                    "delivery_partner_name": "ReliableMovers"
+                }
+            ]
+        }
+    ]
+}

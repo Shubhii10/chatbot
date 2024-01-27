@@ -1,0 +1,69 @@
+{
+  "coupons": [
+      {
+          "category": "Clothing",
+          "coupons": [
+              {
+                  "name": "Fashion20",
+                  "details": "Get 20% off on all clothing items in the store. Use code 'Fashion20' at checkout."
+              },
+              {
+                  "name": "ClearanceSale",
+                  "details": "Enjoy an extra 30% discount on clearance clothing items."
+              }
+          ]
+      },
+      {
+          "category": "Furniture",
+          "coupons": [
+              {
+                  "name": "HomeSweetHome",
+                  "details": "Save $50 on all furniture purchases over $500. Use code 'HomeSweetHome' at checkout."
+              },
+              {
+                  "name": "FreeDelivery",
+                  "details": "Get free delivery on all furniture orders within city limits."
+              }
+          ]
+      },
+      {
+          "category": "Electronics",
+          "coupons": [
+              {
+                  "name": "TechSavings",
+                  "details": "Take 15% off on all electronic gadgets. Use code 'TechSavings' at checkout."
+              },
+              {
+                  "name": "TradeInDeal",
+                  "details": "Trade in your old device and receive a $50 credit towards a new one."
+              }
+          ]
+      },
+      {
+          "category": "Groceries",
+          "coupons": [
+              {
+                  "name": "Grocery10",
+                  "details": "Receive a 10% discount on your entire grocery purchase with code 'Grocery10'."
+              },
+              {
+                  "name": "BuyOneGetOne",
+                  "details": "Buy one, get one free on select grocery items."
+              }
+          ]
+      },
+      {
+          "category": "Beauty & Health",
+          "coupons": [
+              {
+                  "name": "BeautyCare15",
+                  "details": "Take 15% off on all beauty and health products. Use code 'BeautyCare15' at checkout."
+              },
+              {
+                  "name": "WellnessDeal",
+                  "details": "Spend $50 or more on wellness items and receive a $10 gift card."
+              }
+          ]
+      }
+  ]
+}
